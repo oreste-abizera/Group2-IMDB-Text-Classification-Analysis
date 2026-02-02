@@ -1,7 +1,7 @@
 # Group 2: IMDB Text Classification Analysis
 
 ## Objective
-Comparative analysis of text classification systems using various embeddings (TF-IDF, Word2Vec, GloVe) and models (Traditional ML, RNN, LSTM, GRU).
+Comparative analysis of text classification systems using various embeddings (TF-IDF, Skip-gram (Word2Vec), CBOW (Word2Vec)) and models (Traditional ML, RNN, LSTM, GRU).
 
 ## Repository Structure
 - `data/`: Place your dataset file (`IMDB Dataset.csv`) here.

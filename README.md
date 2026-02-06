@@ -6,6 +6,7 @@ Comparative analysis of text classification systems using various embeddings (TF
 ## Repository Structure
 - `data/`: Place your dataset file (`IMDB Dataset.csv`) here.
 - `notebooks/`: Individual experiment notebooks. **Start by copying `template_experiment.ipynb`.**
+- `report/`: Research report (Markdown) for PDF submission. See `report/Comparative_Analysis_Report.md` for the LSTM report draft.
 - `models/`: Save your trained model weights here.
 - `results/`: CSV files containing experiment metrics.
 
